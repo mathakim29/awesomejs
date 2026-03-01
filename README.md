@@ -1,9 +1,10 @@
 <h1>Awesome <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png?_=20141107110902" width="32" height="32"></h1>
 
-### Collection of browser JS you might want to use in your project
+### Collection of browser JS libraries you might want to use in your project
 
 - [AlpineJS](https://alpinejs.dev/) » clientside minimal vue alternative
 - [HTMX](https://htmx.org/) » build dynamic, interactive web apps using simple HTML attributes instead of JS
+- [interact.js](https://interactjs.io/) » drag/drop, resizing, multitouch gestures lib
 - [Nanostores](https://github.com/nanostores/nanostores) » minimal, framework agnostic state manager
 - [Cytoscape.js](https://js.cytoscape.org/) » create interactive networks and graphs
 - [compromise](https://github.com/spencermountain/compromise) » small, simple nlp library
@@ -17,3 +18,4 @@
 - [p5.js](https://p5js.org/) » code your art to life 
 - [axios](https://axios-http.com/) » promise-based HTTP client 
 - [zod](https://zod.dev/) » type schema validation
+- [sortable](https://sortablejs.github.io/Sortable/) » sorting library for JS
