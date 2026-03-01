@@ -10,3 +10,4 @@
 - [spacetime](https://github.com/spencermountain/spacetime) » lightweight javascript timezone library
 - [Chart.js](https://www.chartjs.org/) » HTML5 charts for your website
 - [jsTree](https://www.jstree.com/) » create interactive trees (needs jQuery 3+)
+- [tomselect](https://tom-select.js.org/) » create searchable, customizable, and multi-select dropdowns in web forms.
