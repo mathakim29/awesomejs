@@ -11,3 +11,9 @@
 - [Chart.js](https://www.chartjs.org/) » HTML5 charts for your website
 - [jsTree](https://www.jstree.com/) » create interactive trees (needs jQuery 3+)
 - [tomselect](https://tom-select.js.org/) » create searchable, customizable, and multi-select dropdowns in web forms.
+- [jspreadsheet (community edition)](https://bossanova.uk/jspreadsheet/) » simple, functional spreadsheets on the browser
+- [tabulator](https://tabulator.info/) » extensible datagrids on the web
+- [threejs](https://threejs.org/ ) » render 3d graphics on the web
+- [p5.js](https://p5js.org/) » code your art to life 
+- [axios](https://axios-http.com/) » promise-based HTTP client 
+- [zod](https://zod.dev/) » type schema validation
