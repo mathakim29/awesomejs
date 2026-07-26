@@ -20,4 +20,4 @@
 - [zod](https://zod.dev/) » type schema validation
 - [sortable](https://sortablejs.github.io/Sortable/) » sorting library for JS
 - [wavesurfer](https://wavesurfer.xyz/)  » open-source audio visualization library for creating interactive, customizable waveforms.
-- 
+- [frappe-datatable](https://frappe.io/datatable) » a simple, modern and interactive datatable for the web
